@@ -1,0 +1,1 @@
+# maven-custom-plugin-sinasarikaya
